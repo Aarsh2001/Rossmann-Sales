@@ -11,6 +11,9 @@ The dataset used is [Rossman-Store-Sales](https://www.kaggle.com/c/rossmann-stor
 store,promotion, and competitor data.The submissions are to be evaluated on Root Mean Square Percentage Error(RMSPE).
 ![Formula](https://github.com/Aarsh2001/Rossmann-Sales/blob/master/Screenshot%202020-08-06%20at%203.09.50%20PM.png)
 
+## Exploratory Data Analysis
+EDA performed [here.](https://github.com/Aarsh2001/Rossmann-Sales/blob/master/EDA.ipynb)
+
 ## Modelling
 First I have done some data preprocessing,which includes mappings and essential calculation,i've also applied **log transformation** to the target variable(Sales),
 as in the [EDA](https://github.com/Aarsh2001/Rossmann-Sales/blob/master/EDA.ipynb) we found out that the distribution of sales was a bit right skewed.What **log transformation**
