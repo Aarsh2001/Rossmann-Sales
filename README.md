@@ -1,5 +1,5 @@
 # Sales Forecasting
-As the name suggests, predicting future sales based on some parameters is **Sales Forecasting**.Why do we need to do it?,well
+As the name suggests, predicting future sales based on some parameters is **Sales Forecasting**.Why we need to do it?,well
 that depends on the company/user specific needs.We can do it to assess the following-:
 
 1)To set targets
